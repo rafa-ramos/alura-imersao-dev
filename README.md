@@ -14,3 +14,6 @@ Proporcinado pela Alura e Google Gemini, o projeto é uma aplicação web simple
 * **HTML:** Estrutura da página.
 * **CSS:** Estilização da página.
 * **JavaScript:** Lógica da aplicação, incluindo a função de busca.
+
+## Link
+[Deploy da aplicação](https://alura-imersao-dev-rust.vercel.app/)
